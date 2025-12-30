@@ -1,0 +1,8 @@
+flask
+flask-cors
+networkx
+clingo
+numpy
+pandas
+pytest
+gunicorn
